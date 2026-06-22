@@ -1,0 +1,5 @@
+# core (required)
+numpy>=1.24
+
+# optional — only for vision/vision.py on Apple Silicon
+# mlx>=0.20
